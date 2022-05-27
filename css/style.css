@@ -43,6 +43,15 @@
         justify-content: center;
         align-items: center;
     }
+   .noVisible {
+        display: none;
+    }
+    .siVisible {
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+    }
     ul {
         width: 98%;
     }
